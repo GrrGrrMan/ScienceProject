@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Configuration;
@@ -17,8 +17,10 @@ namespace RandomUIV1._0
     public partial class Form1 : Form
     {
         // Settings
-        int lengthMax = 5;
+        int lengthMax = 1;
         int delseqtill = 100;
+
+        int MinsTillNextSave = 10;
 
 
 
@@ -72,7 +74,7 @@ namespace RandomUIV1._0
         public Form1()
         {
             InitializeComponent();
-            saveTimer.Interval = 30 * msM;
+            saveTimer.Interval = MinsTillNextSave * msM; 
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -83,7 +85,7 @@ namespace RandomUIV1._0
                 folderBrowserDialog1.ShowDialog();
                 if (folderBrowserDialog1.SelectedPath == "")
                 {
-                    MessageBox.Show("Stupid boy", "Nig", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show("Stupid boy", "dum boy", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     Application.Exit();
                 }
                 else
@@ -95,7 +97,7 @@ namespace RandomUIV1._0
             if (bToggle == false)
             {
                 bToggle = true;
-                button1.Text = "Start";
+                button1.Text = "Stop";
                 whileTimer.Start();
                 if (autoSaveDebounce == false)
                 {
@@ -105,7 +107,7 @@ namespace RandomUIV1._0
             else if (bToggle == true)
             {
                 bToggle = false;
-                button1.Text = "Stop";
+                button1.Text = "Start";
                 whileTimer.Stop();
                 if (autoSaveDebounce == false)
                 {
