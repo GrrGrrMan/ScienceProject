@@ -1,0 +1,10 @@
+C:\Users\rlmea\source\repos\RandomUIV1.0 (2)\RandomUIV1.0\RandomUIV1.0\bin\Release\RandomUIV1.0.exe.config
+C:\Users\rlmea\source\repos\RandomUIV1.0 (2)\RandomUIV1.0\RandomUIV1.0\bin\Release\RandomUIV1.0.exe
+C:\Users\rlmea\source\repos\RandomUIV1.0 (2)\RandomUIV1.0\RandomUIV1.0\bin\Release\RandomUIV1.0.pdb
+C:\Users\rlmea\source\repos\RandomUIV1.0 (2)\RandomUIV1.0\RandomUIV1.0\obj\Release\RandomUIV1.0.csproj.AssemblyReference.cache
+C:\Users\rlmea\source\repos\RandomUIV1.0 (2)\RandomUIV1.0\RandomUIV1.0\obj\Release\RandomUIV1._0.Form1.resources
+C:\Users\rlmea\source\repos\RandomUIV1.0 (2)\RandomUIV1.0\RandomUIV1.0\obj\Release\RandomUIV1._0.Properties.Resources.resources
+C:\Users\rlmea\source\repos\RandomUIV1.0 (2)\RandomUIV1.0\RandomUIV1.0\obj\Release\RandomUIV1.0.csproj.GenerateResource.cache
+C:\Users\rlmea\source\repos\RandomUIV1.0 (2)\RandomUIV1.0\RandomUIV1.0\obj\Release\RandomUIV1.0.csproj.CoreCompileInputs.cache
+C:\Users\rlmea\source\repos\RandomUIV1.0 (2)\RandomUIV1.0\RandomUIV1.0\obj\Release\RandomUIV1.0.exe
+C:\Users\rlmea\source\repos\RandomUIV1.0 (2)\RandomUIV1.0\RandomUIV1.0\obj\Release\RandomUIV1.0.pdb
