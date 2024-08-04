@@ -1,0 +1,14 @@
+c:\Users\jiuma\Downloads\Rando\bin\Debug\net8.0-windows\Rando.exe
+C:\Users\jiuma\Downloads\Rando\bin\Debug\net8.0-windows\Rando.deps.json
+C:\Users\jiuma\Downloads\Rando\bin\Debug\net8.0-windows\Rando.runtimeconfig.json
+c:\Users\jiuma\Downloads\Rando\bin\Debug\net8.0-windows\Rando.dll
+c:\Users\jiuma\Downloads\Rando\bin\Debug\net8.0-windows\Rando.pdb
+c:\Users\jiuma\Downloads\Rando\obj\Debug\net8.0-windows\Rando.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\jiuma\Downloads\Rando\obj\Debug\net8.0-windows\Rando.AssemblyInfoInputs.cache
+c:\Users\jiuma\Downloads\Rando\obj\Debug\net8.0-windows\Rando.AssemblyInfo.cs
+c:\Users\jiuma\Downloads\Rando\obj\Debug\net8.0-windows\Rando.csproj.CoreCompileInputs.cache
+c:\Users\jiuma\Downloads\Rando\obj\Debug\net8.0-windows\Rando.dll
+c:\Users\jiuma\Downloads\Rando\obj\Debug\net8.0-windows\refint\Rando.dll
+c:\Users\jiuma\Downloads\Rando\obj\Debug\net8.0-windows\Rando.pdb
+C:\Users\jiuma\Downloads\Rando\obj\Debug\net8.0-windows\Rando.genruntimeconfig.cache
+C:\Users\jiuma\Downloads\Rando\obj\Debug\net8.0-windows\ref\Rando.dll
